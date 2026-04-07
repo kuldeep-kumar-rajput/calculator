@@ -70,5 +70,5 @@ btns.addEventListener("click", (e) => {
     }
 })
 function isoperator(c) {
-    return c == "+" || c == "-" || c == "*" || c == "/"
+    return c == "+" || c == "-" || c == "*" || c == "/"||c=="%"
 }
